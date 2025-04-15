@@ -50,7 +50,13 @@ background-color:deeppink ;
      height: 46px;;
      background-color:hotpink
 }
-.retangulo
-     width:24px;
+.retangulo {
+     width: 355px;
      height:46 px;
-     background-color:
+     background-color:hotpink
+}
+.retangulo {
+     width:355px;
+     height:46 px;
+     background-color:hotpink
+}
