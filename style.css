@@ -30,12 +30,27 @@ background-color:deeppink ;
      width: 150px;
      height: 178px;
      background-color:rgb(236, 133, 168) ;
-    
+ }
 .segunda_secao{
-     width: ;
-     height: ;
+     width: 700px; ;
+     height: 368px; ;
      background-color: fuchsia;
-} 
-
-     
-                    }
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+}
+                    
+.quadrado{
+     width:245PX;
+     height:232px;
+     background-color: deeppink;
+}             
+.retangulo{
+     width:355px;
+     height: 46px;;
+     background-color:hotpink
+}
+.retangulo
+     width:24px;
+     height:46 px;
+     background-color:
